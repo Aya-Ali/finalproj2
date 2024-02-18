@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.499fbff5.css",
-    "main.js": "./static/js/main.417b6a13.js",
+    "main.js": "./static/js/main.542e9cfc.js",
     "static/media/fa-solid-900.ttf": "./static/media/fa-solid-900.45a265d0f07b31cde85f.ttf",
     "static/media/slider-image-1.jpeg": "./static/media/slider-image-1.3c3940ee0f1c3b17ff9a.jpeg",
     "static/media/grocery-banner.png": "./static/media/grocery-banner.2c56649c9cbe2e19b86f.png",
@@ -17,10 +17,10 @@
     "static/media/fa-v4compatibility.woff2": "./static/media/fa-v4compatibility.b3049b13a93f07e026fc.woff2",
     "index.html": "./index.html",
     "main.499fbff5.css.map": "./static/css/main.499fbff5.css.map",
-    "main.417b6a13.js.map": "./static/js/main.417b6a13.js.map"
+    "main.542e9cfc.js.map": "./static/js/main.542e9cfc.js.map"
   },
   "entrypoints": [
     "static/css/main.499fbff5.css",
-    "static/js/main.417b6a13.js"
+    "static/js/main.542e9cfc.js"
   ]
 }
